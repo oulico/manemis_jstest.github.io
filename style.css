@@ -1,6 +1,6 @@
 body {
-    box-sizing: border-box;
-    background-color: rgb(1, 61, 61);
+    box-sizing:border-box;
+    background-color: #E9E8E4;
     display: flex;
     flex-direction: column;
     align-items: left;
@@ -9,8 +9,8 @@ body {
     height: 100%;
     color:tomato;
     font-family: 'Baloo Tammudu 2', cursive;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
 
 }
 
