@@ -24,6 +24,11 @@ body {
 .js-title{
     font-size: 60px;
 }
+.js-form{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
 
 .todo_list{
 
