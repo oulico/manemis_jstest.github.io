@@ -11,8 +11,7 @@ body {
     font-family: 'Baloo Tammudu 2', cursive;
     padding-left: 10%;
     padding-right: 10%;
-    padding-top: 2.5%;
-    padding-bottom: 2.5%;
+
 }
 
 .js-clock{
@@ -20,6 +19,10 @@ body {
     height: 80px;
     border-radius: 10px;
     margin-bottom: 20px;
+}
+
+.js-title{
+    font-size: 60px;
 }
 
 .todo_list{
@@ -99,4 +102,16 @@ button{
     height: 100%;
     z-index: -1;
     animation: fadeIn .5s linear;
+}
+
+.degree {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+
+.js-weather{
+    color : black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
