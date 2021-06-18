@@ -11,7 +11,6 @@ body {
     font-family: 'Baloo Tammudu 2', cursive;
     padding-left: 5%;
     padding-right: 5%;
-
 }
 
 .js-clock{
@@ -24,15 +23,17 @@ body {
 .js-title{
     font-size: 60px;
 }
+
 .js-form{
     margin-top: 40px;
     margin-bottom: 40px;
 }
 
-
+/*
 .todo_list{
-
 }
+*/
+
 .todo_list_box{
     width: 250px;
     height: 30px;
@@ -40,28 +41,21 @@ body {
     background-color: white;
     padding-left: 20px;
     margin-bottom: 30px;
-
 }
-
-
 
 input.todoform{
     border: none;
     outline: none;
-
 }
 
 .js-toDoList{
     height: 50vh;
     width: 20vw;
     overflow:auto;
-
 }
 
 .time_momento{
-    
     font-size: 40px;
-
 }
 
 .js-greetings{
@@ -89,7 +83,6 @@ button{
     border : solid white 0px;
     border-radius : 50%;
     margin-left: 10px;
-
 }
 
 @keyframes fadeIn {
@@ -99,6 +92,7 @@ button{
         opacity: 1;
     }
 }
+
 .bgImage{
     position: absolute;
     top: 0;
@@ -113,7 +107,6 @@ button{
     display: flex;
     align-items: center;
     justify-content: flex-end;
-
 }
 
 .js-weather{
